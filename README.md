@@ -1,6 +1,6 @@
 # Forumtask_Session12
-Couese : Algorithm and Programming Exercise
-Lecture : Mr. Jude
-Student Name : Christopher Alexander Tjiandra
-Student Class : L1BC
-Student ID : 2502019230
+Course : Algorithm and Programming Exercise_
+Lecture : Mr. Jude_
+Student Name : Christopher Alexander Tjiandra_
+Student Class : L1BC_
+Student ID : 2502019230_
